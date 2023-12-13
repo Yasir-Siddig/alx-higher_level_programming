@@ -1,1 +1,1 @@
-0x12. JavaScript - Warm up
+First javaScript project inALx Software Engineering School
