@@ -1,1 +1,1 @@
-First javaScript project inALx Software Engineering School
+# Solution to tasks on JavaScript - Warm up
